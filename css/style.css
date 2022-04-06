@@ -1,0 +1,22 @@
+.card {
+    background-color: rgb(233, 255, 230);
+}
+
+.card-header {
+    background-color: rgb(128, 250, 122);
+    font-size: 18px;
+}
+
+.btn {
+    height: 60px;
+    width: 150px;
+    background-color: rgb(128, 250, 122);
+    font-size: 20px;
+    margin: 20px;
+    border:rgb(51, 189, 44) solid;
+    border-radius: 5%;
+}
+
+span {
+    font-weight: bold;
+}
